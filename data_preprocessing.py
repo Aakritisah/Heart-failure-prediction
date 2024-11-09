@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-data = pd.read_csv('path/to/your/heart_failure_clinical_records_dataset.csv')
+data = pd.read_csv('heart_failure_clinical_records_dataset.csv')
 
 # Step 1: Examine the Data
 print("First few rows of the dataset:")
